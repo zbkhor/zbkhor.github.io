@@ -1,19 +1,15 @@
 ---
-title: "Projects"
+title: "About"
 ---
 
-## Final Year Project
+## Background
 
-Brief description of your FYP or any academic project you're proud of.
-What was the problem? What did you build? What did you learn?
+I am Khor Zhao Bao and currently studying at Singapore Institute of Technology
 
-![Project screenshot](images/project_screenshot.png){width=80%}
+## Education
 
-## Data Visualization Work
+- **Singapore Institute of Technology** — AAI 2026
 
-A chart, graph, or map you created in your studies — with a brief
-explanation of what it shows and the story behind it.
+## Hobbies and Interests
 
-## Other Work
-
-Any other projects, coursework, or side projects worth sharing.
+Gaming
