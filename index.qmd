@@ -1,11 +1,36 @@
 ---
-title: "temp_website"
+title: "Your Full Name"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Write a short self-introduction here. Who you are, what you study,
+what you're interested in.
 
-```{r}
-1 + 1
-```
+You can include a photo like this:
+
+![Your photo caption](images/your_photo.jpg){width=40% fig-align="left"}
+
+Or use the float layout to put text beside the photo:
+
+::: {style="float:left; position: relative; top: 0px"}
+![](images/your_photo.jpg){height="200px" style="margin-right: 20px;"}
+:::
+
+I'm a student at the Singapore Institute of Technology studying Data
+Engineering and Visualization. I'm interested in data science, machine
+learning, and building things.
+
+<br style="clear:both;">
+
+## Skills
+
+- R, Python, SQL
+- Data visualization
+- Quarto and GitHub Pages
+
+## Contact
+
+You can reach me at: [your.email@example.com](mailto:your.email@example.com)
+
+Or find me on [GitHub](https://github.com/<username>).

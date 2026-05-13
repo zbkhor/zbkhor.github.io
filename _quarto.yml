@@ -1,16 +1,19 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "temp_website"
+  title: "Your Name Here"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
@@ -19,5 +22,3 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
-    
-    

@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
+## Final Year Project
 
-```{r}
-1 + 1
-```
+Brief description of your FYP or any academic project you're proud of.
+What was the problem? What did you build? What did you learn?
+
+![Project screenshot](images/project_screenshot.png){width=80%}
+
+## Data Visualization Work
+
+A chart, graph, or map you created in your studies — with a brief
+explanation of what it shows and the story behind it.
+
+## Other Work
+
+Any other projects, coursework, or side projects worth sharing.
