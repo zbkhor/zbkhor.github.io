@@ -1,11 +1,17 @@
 ---
-title: "temp_website"
+title: "Khor Zhao Bao"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Write your self-introduction here.
 
-```{r}
-1 + 1
-```
+## Skills
+
+- R, Python, SQL
+- Data visualization
+- Quarto and GitHub Pages
+
+## Contact
+
+[your.email@example.com](mailto:your.email@example.com)
