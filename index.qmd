@@ -11,7 +11,3 @@ Write your self-introduction here.
 - R, Python, SQL
 - Data visualization
 - Quarto and GitHub Pages
-
-## Contact
-
-[your.email@example.com](mailto:your.email@example.com)
