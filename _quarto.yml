@@ -4,9 +4,7 @@ project:
 
 website:
   title: "Your Name Here"
-  favicon: favicon.png
   navbar:
-    logo: logo.png
     left:
       - href: index.qmd
         text: Home
