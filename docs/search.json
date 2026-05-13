@@ -1,9 +1,58 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Full Name",
+    "section": "",
+    "text": "Write a short self-introduction here. Who you are, what you study, what you’re interested in.\nYou can include a photo like this:\n\n\n\nYour photo caption\n\n\nOr use the float layout to put text beside the photo:\n\n\n\nI’m a student at the Singapore Institute of Technology studying Data Engineering and Visualization. I’m interested in data science, machine learning, and building things."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Your Full Name",
+    "section": "",
+    "text": "Write a short self-introduction here. Who you are, what you study, what you’re interested in.\nYou can include a photo like this:\n\n\n\nYour photo caption\n\n\nOr use the float layout to put text beside the photo:\n\n\n\nI’m a student at the Singapore Institute of Technology studying Data Engineering and Visualization. I’m interested in data science, machine learning, and building things."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Your Full Name",
+    "section": "Skills",
+    "text": "Skills\n\nR, Python, SQL\nData visualization\nQuarto and GitHub Pages"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Your Full Name",
+    "section": "Contact",
+    "text": "Contact\nYou can reach me at: your.email@example.com\nOr find me on GitHub."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Brief description of your FYP or any academic project you’re proud of. What was the problem? What did you build? What did you learn?\n\n\n\nProject screenshot"
+  },
+  {
+    "objectID": "about.html#final-year-project",
+    "href": "about.html#final-year-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Brief description of your FYP or any academic project you’re proud of. What was the problem? What did you build? What did you learn?\n\n\n\nProject screenshot"
+  },
+  {
+    "objectID": "about.html#data-visualization-work",
+    "href": "about.html#data-visualization-work",
+    "title": "Projects",
+    "section": "Data Visualization Work",
+    "text": "Data Visualization Work\nA chart, graph, or map you created in your studies — with a brief explanation of what it shows and the story behind it."
+  },
+  {
+    "objectID": "about.html#other-work",
+    "href": "about.html#other-work",
+    "title": "Projects",
+    "section": "Other Work",
+    "text": "Other Work\nAny other projects, coursework, or side projects worth sharing."
   }
 ]
