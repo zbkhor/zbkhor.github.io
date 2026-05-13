@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Brief description of your FYP or any academic project you’re proud of. What was the problem? What did you build? What did you learn?"
-  },
-  {
-    "objectID": "projects.html#final-year-project",
-    "href": "projects.html#final-year-project",
-    "title": "Projects",
-    "section": "",
-    "text": "Brief description of your FYP or any academic project you’re proud of. What was the problem? What did you build? What did you learn?"
-  },
-  {
     "objectID": "projects.html#data-visualization-work",
     "href": "projects.html#data-visualization-work",
     "title": "Projects",
     "section": "Data Visualization Work",
-    "text": "Data Visualization Work\nA chart, graph, or map you created in your studies — with a brief explanation of what it shows and the story behind it."
+    "text": "Data Visualization Work"
   },
   {
     "objectID": "projects.html#other-work",
     "href": "projects.html#other-work",
     "title": "Projects",
     "section": "Other Work",
-    "text": "Other Work\nAny other projects, coursework, or side projects worth sharing."
+    "text": "Other Work"
   },
   {
     "objectID": "about.html",
@@ -54,20 +40,6 @@
     "title": "Projects",
     "section": "Other Work",
     "text": "Other Work\nAny other projects, coursework, or side projects worth sharing."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Khor Zhao Bao",
-    "section": "",
-    "text": "Write your self-introduction here."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Khor Zhao Bao",
-    "section": "",
-    "text": "Write your self-introduction here."
   },
   {
     "objectID": "index.html#skills",
